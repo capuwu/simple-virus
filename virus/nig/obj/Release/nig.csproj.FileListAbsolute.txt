@@ -1,0 +1,9 @@
+C:\Users\capu\source\repos\nig\nig\obj\Release\nig.Form1.resources
+C:\Users\capu\source\repos\nig\nig\obj\Release\nig.Properties.Resources.resources
+C:\Users\capu\source\repos\nig\nig\obj\Release\nig.csproj.GenerateResource.cache
+C:\Users\capu\source\repos\nig\nig\bin\Release\lel.exe.config
+C:\Users\capu\source\repos\nig\nig\bin\Release\lel.exe
+C:\Users\capu\source\repos\nig\nig\bin\Release\lel.pdb
+C:\Users\capu\source\repos\nig\nig\obj\Release\nig.csprojAssemblyReference.cache
+C:\Users\capu\source\repos\nig\nig\obj\Release\lel.exe
+C:\Users\capu\source\repos\nig\nig\obj\Release\lel.pdb

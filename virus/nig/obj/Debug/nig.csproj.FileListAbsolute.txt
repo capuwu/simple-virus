@@ -1,0 +1,8 @@
+C:\Users\capu\source\repos\nig\nig\bin\Debug\nig.exe.config
+C:\Users\capu\source\repos\nig\nig\bin\Debug\nig.exe
+C:\Users\capu\source\repos\nig\nig\bin\Debug\nig.pdb
+C:\Users\capu\source\repos\nig\nig\obj\Debug\nig.Form1.resources
+C:\Users\capu\source\repos\nig\nig\obj\Debug\nig.Properties.Resources.resources
+C:\Users\capu\source\repos\nig\nig\obj\Debug\nig.csproj.GenerateResource.cache
+C:\Users\capu\source\repos\nig\nig\obj\Debug\nig.exe
+C:\Users\capu\source\repos\nig\nig\obj\Debug\nig.pdb
